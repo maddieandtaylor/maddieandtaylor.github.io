@@ -1,14 +1,14 @@
 
 body {
-	background-color: lightgray;
+	background-color: AliceBlue;
 }
 
 h1 {
 	color: navy;
 	text-align: center;
-	font-family: Times New Roman;
-	font-size: 54;
-	letter-spacing: 3px;
+	font-family: Palatino Linotype;
+	font-size: 70;
+	letter-spacing: 5px;
 
 }
 
@@ -19,8 +19,13 @@ h2 {
 }
 
 h3 {
+	color: black;
 	text-align: center;
-	font-family: Helvetica;
+	font-family: Palatino Linotype;
+	font-size: 16;
+	letter-spacing: .5px;
+    -webkit-align-self: center;
+    align-self: center;
 }
 
 
