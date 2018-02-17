@@ -13,19 +13,20 @@ h1 {
 }
 
 h2 {
+	color: navy;
 	text-align: center;
-	font-family: Helvetica;
+	font-family: Times New Roman;
+	font-size: 40;
 	letter-spacing: 2px;
 }
 
-h3 {
+p1 {
 	color: black;
 	text-align: center;
 	font-family: Palatino Linotype;
 	font-size: 16;
 	letter-spacing: .5px;
-    -webkit-align-self: center;
-    align-self: center;
+    
 }
 
 
